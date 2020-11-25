@@ -1,0 +1,2 @@
+# PyramidOfAsterisk
+アスタリスクのピラミッドのコードです。
